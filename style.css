@@ -198,6 +198,9 @@ footer .links a {
   margin-left: 5px;
   color: black;
 }
+footer .links a:hover {
+  color: #bfbfbf;
+}
 /* responsive */
 @media screen and (max-width: 650px) {
   .hero h1 {
